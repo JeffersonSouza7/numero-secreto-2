@@ -4,6 +4,7 @@ let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 
 // teste de commit //
+// teste 2 //
 
 function exibirTextoNaTela(tag, texto) {
     let campo = document.querySelector(tag);
